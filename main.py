@@ -8,10 +8,11 @@ final words.
 
 import os
 
-# Candidate 1 (self-deprecating, Earth), 131 characters, no em dash:
-# Earth renamed "The Group Project", because eight billion people share
-# it, nobody does the work, and the deadline is already on fire.
-LINE = "Earth is now 'The Group Project', because eight billion people share it, nobody does the work, and the deadline is already on fire."
+# Candidate 3 (sharp-observational, Saturn), 142 characters, no em dash:
+# Saturn renamed "The Hula Hoop", because it has spun the same ring
+# around its waist for four billion years and still will not admit it
+# is stuck.
+LINE = "Saturn is now 'The Hula Hoop', because it has spun the same ring around its waist for four billion years and still will not admit it is stuck."
 
 
 def main() -> None:
